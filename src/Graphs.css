@@ -1,0 +1,27 @@
+.Container{
+    width: 1400px;
+    display: grid;
+    grid-template-columns: 466px 466px 466px;
+  }
+  
+  .Graphs{
+    padding: 5em;
+  }
+  
+  .Second-graphs{
+    padding: 5em;
+  }
+  
+  .Heading1{
+    font-size: 45px;
+    text-align: center;
+    color: #808080;
+    padding: 3.5em;
+  }
+  
+  .second-heading{
+    font-size: 45px;
+    text-align: center;
+    color: #808080;
+    padding: 3.5em
+  }

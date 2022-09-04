@@ -1,0 +1,42 @@
+
+.Footer{
+    background-color: #213343;
+    padding: 3em;
+    padding-top: 2.6em;
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.Footer > h1 {
+    color: #000000;
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1.8px;
+}
+
+.Footer > p {
+    color: rgb(121, 121, 121);
+    padding-top: 7px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1.8px;
+    font-size: 20px;
+}
+
+.Last-elements{
+    color: rgb(200, 200, 200);
+    column-count: 3;
+    column-gap: 0px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    padding-top: 3em;
+    /* max-width: 560px; */
+}    
+
+#Last-links{
+    /* text-decoration: underline 0.35px; */
+    font-family: 'Raleway', sans-serif;
+    color: rgb(203, 203, 203);
+    font-size: 19px;
+    text-decoration: none;
+}
+ 

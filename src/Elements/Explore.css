@@ -1,0 +1,135 @@
+
+.Explore > p{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    font-size: 45px;
+    font-weight: 900;
+    padding-top: 3em;
+}
+
+.Explore > h3 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.Explore label{
+    text-align: left;
+    display: block;
+    color: #000000;
+    font-size: 24px;
+
+}
+
+.Explore input{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.Search{
+    padding-top: 2cm;
+    padding-left: 3.3cm;
+    columns: 2;
+}
+
+.Maps{
+    columns: 2;
+    padding: 3em;
+}    
+
+.MapImage{
+    padding-left: 5em;
+    width: 650px;
+    height: 450px;
+}
+
+.refrences{
+    columns: 3;
+    font-size: 40px;
+    padding: 3em;
+    padding-left: 2in;
+    align-items: center;
+}
+
+.Maps > span{
+    padding-bottom: 20em;
+}
+.first > a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+}
+.first > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+}
+.first > p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #656565;
+    margin-top: 2px;
+    padding-bottom: 2.3em;
+}
+
+.second > a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+}
+.second > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+.second > p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #656565;
+    margin-top: 2px;
+    padding-bottom: 2.3em;
+}
+
+.third > a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+}
+.third > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+.third > p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #656565;
+    margin-top: 2px;
+    padding-bottom: 2.3em;
+}
+
+.button{
+    padding: 3em;
+}
+.Search{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+}
+.Search input{
+    width: 45em;
+}
+.Search button{
+    margin-left: 5px;
+    height: 30px;
+    margin-top: 11px;
+    padding-left: 2px;
+    padding-right: 2px;
+}

@@ -1,0 +1,120 @@
+.Blogs{
+    
+    padding: 3rem;
+    background-color: black ;
+}
+
+.first-section{ 
+   text-align: center;
+}
+
+#start-heading{
+    color: #eeeeee;
+    font-size: 1.5em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
+
+#start-text{
+    margin-top: 15px;
+    color: #6b6b6b;
+    font-family: 'Raleway',sans-serif;
+    font-size: 1.3em;
+}
+
+.about-cozy-earth{
+    padding-top: 8em;
+    padding-bottom: 2.5em;
+    columns: 2;
+}
+
+#Main-text{
+    
+    font-size: 3em;
+    color: #ffffff;
+    text-align: left;
+}
+
+#Main-text > h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 3em;
+    color: #ffffff;
+    padding-left: 0.5em;
+}
+
+#Main-intro{
+
+   max-width: 1340px;
+   align-content: center;
+   padding-top: 5.5em;
+   padding-right: 5em;
+}
+
+#Main-intro > p{
+    padding-bottom : 1.5rem;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    word-spacing: 2px;
+    line-height: 150%;
+    color: rgb(138, 138, 138);
+    text-align: left;
+    
+}
+
+.Save-Earth{
+    columns: 2;
+    padding-top: 4em;
+    padding-bottom: 3em;
+    padding-left: 4rem;
+}
+
+#Line{
+    font-size: 3em;
+    color: #ffffff;
+    text-align: left;
+}
+
+/* .Blog-button{
+    size: 10em;
+} */
+
+.General-info{
+    columns: 3;
+    color: rgb(138, 138, 138);
+    padding: 3em;
+    padding-top: 5em;
+    word-spacing: 2px;
+    line-height: 150%;
+    /* text-align: center; */
+
+}
+
+.General-info{
+    display: grid;
+    grid-template-columns: 22em 22em 22em;
+    grid-template-rows: 2em 2em;
+    gap: 35px;
+    padding: 10em;
+    padding-top: 2in;
+   padding-left: 1.6in;
+}
+
+.Second-section{
+    align-items: center;
+    padding-bottom: 5em;
+}
+
+#Second-heading{
+    font-size: 1.5em;
+    font-family: 'Raleway', sans-serif;
+    color: #af94ff;
+}
+
+#Second-text{
+    padding-top: 10px;
+    font-family: 'Raleway',sans-serif;
+    color: #84729b;
+}
+
+
